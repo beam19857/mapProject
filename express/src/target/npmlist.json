@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"express","dependencies":{"autocannon":{"version":"7.6.0"},"axios":{"version":"0.24.0"},"bcryptjs":{"version":"2.4.3"},"express":{"version":"4.17.2"},"jsonwebtoken":{"version":"8.5.1"},"mongoose":{"version":"6.1.7"}}}

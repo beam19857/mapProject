@@ -1,0 +1,14 @@
+npm install --save-dev @babel/core
+
+"@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/plugin-proposal-class-properties": "^7.16.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^27.3.1",
+
+    "build": "babel src --out-dir dist",
+    
+ silly_noether
